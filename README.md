@@ -55,8 +55,8 @@ Here is a breakdown of the key topics covered in the course:
 
 This repository includes all my course-related projects and exercises:
 
-- [Functions and Variables](./functions-variables)
-- [Conditionals](./conditionals)
+- [Functions and Variables](./week0)
+- [Conditionals](./week1)
 - [Loops](./loops)
 - [Exceptions](./exceptions)
 - [Libraries](./libraries)

@@ -62,9 +62,9 @@ This repository includes all my course-related projects and exercises:
 - [Libraries](./week4)
 - [Unit Tests](./week5)
 - [File I/O](./week6)
-- [Regular Expressions](./regex)
-- [Object-Oriented Programming](./oop)
-- [Miscellaneous](./misc)
+- [Regular Expressions](./week7)
+- [Object-Oriented Programming](./week8)
+- [Miscellaneous](./week9)
 
 Explore each directory for my code solutions, along with comments and explanations.
 
